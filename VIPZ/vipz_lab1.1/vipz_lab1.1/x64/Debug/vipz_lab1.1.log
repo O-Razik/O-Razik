@@ -1,9 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (vipz_lab1.1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  AddElem.cpp
-  Choose.cpp
-  ListFunc.cpp
-  main.cpp
-  SortList.cpp
-  Generating Code...
-C:\Users\razik\source\repos\GitHub\VIPZ\vipz_lab1.1\vipz_lab1.1\Choose.cpp(76): warning C4715: 'Choose': not all control paths return a value
-  vipz_lab1.1.vcxproj -> C:\Users\razik\source\repos\GitHub\VIPZ\vipz_lab1.1\x64\Debug\vipz_lab1.2.3.exe
