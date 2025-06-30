@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @O-Razik.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C#.
-- ✨ I know C/C++.
+- ✨ I know C#.
 
 <!---
 O-Razik/O-Razik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
